@@ -1,6 +1,6 @@
 # Formulario Newsletter
 
-formulario Newsletter simples utilizando React e Tailwind
+formulario Newsletter utilizando React e Tailwind
 
 GitHub Page:  https://douglasmf.github.io/form-newsletter
 
